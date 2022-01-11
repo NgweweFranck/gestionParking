@@ -1,8 +1,0 @@
-################################################################################################
-##############									###################
-##############		Application de gestion de parking en ligne		###################
-##############									###################
-################################################################################################
-
-	notre application permettra aux utilisateurs de reserver les places de parking directement en ligne
-	Alors nous allons commencer le devellopement ce week-end  (vandredi 17 decembre 2021 )pour finir le 7 janvier 2022
